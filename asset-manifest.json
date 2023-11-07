@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc4679e9.css",
+    "main.js": "/static/js/main.f946fac5.js",
+    "static/media/weekaway.png": "/static/media/weekaway.abbe8af73c5c1f9bf7dc.png",
+    "static/media/besteats.jpg": "/static/media/besteats.9c0e86c23fce92d4e391.jpg",
+    "static/media/react.png": "/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/github.png": "/static/media/github.8886a9c9251d59251c80.png",
+    "static/media/tailwind.png": "/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/laravel.png": "/static/media/laravel.2ebf4db3cc9f1b431979.png",
+    "static/media/js.png": "/static/media/js.b58e0cada6bdc52879ba.png",
+    "static/media/pp.jpeg": "/static/media/pp.a3aeaa984327644b720e.jpeg",
+    "static/media/html.png": "/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/css.png": "/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "index.html": "/index.html",
+    "main.fc4679e9.css.map": "/static/css/main.fc4679e9.css.map",
+    "main.f946fac5.js.map": "/static/js/main.f946fac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4679e9.css",
+    "static/js/main.f946fac5.js"
+  ]
+}
